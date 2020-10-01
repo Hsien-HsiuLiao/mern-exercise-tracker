@@ -1,4 +1,16 @@
-19:14 backend
+frontend
+
+https://www.w3schools.com/bootstrap4/bootstrap_navbar.asp
+
+https://getbootstrap.com/docs/4.0/components/navbar/
+
+https://insomnia.rest/
+
+https://whatismyipaddress.com/
+
+https://www.mongodb.com/cloud/atlas
+
+https://web.postman.co/build
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
