@@ -1,4 +1,4 @@
-frontend
+###Frontend
 
 https://www.w3schools.com/bootstrap4/bootstrap_containers.asp
 
@@ -13,6 +13,13 @@ https://whatismyipaddress.com/
 https://www.mongodb.com/cloud/atlas
 
 https://web.postman.co/build
+
+###Testing
+
+In backend directory, run
+
+`nodemon server.js'
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
