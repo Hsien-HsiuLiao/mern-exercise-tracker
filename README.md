@@ -8,7 +8,9 @@ https://getbootstrap.com/docs/4.0/components/navbar/
 
 https://insomnia.rest/
 
-https://whatismyipaddress.com/
+https://whatismyipaddress.com/ - for whitelist in mongoDB, can also use mongodb dashboard to automatically set current address
+
+https://docs.mongodb.com/manual/reference/connection-string/#connection-string-formats
 
 https://www.mongodb.com/cloud/atlas
 
@@ -18,7 +20,7 @@ https://web.postman.co/build
 
 In backend directory, run
 
-`nodemon server.js'
+`nodemon server.js`
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
