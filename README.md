@@ -8,7 +8,7 @@ https://getbootstrap.com/docs/4.0/components/navbar/
 
 https://insomnia.rest/
 
-https://whatismyipaddress.com/ - for whitelist in mongoDB, can also use mongodb dashboard to automatically set current address
+https://whatismyipaddress.com/ - for whitelist in mongoDB (https://cloud.mongodb.com/v2/5f6e30c02460903468f7bd64#security/network/accessList), can also use mongodb dashboard to automatically set current address
 
 https://docs.mongodb.com/manual/reference/connection-string/#connection-string-formats
 
