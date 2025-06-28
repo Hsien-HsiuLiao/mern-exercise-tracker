@@ -1,3 +1,5 @@
+```NODE_OPTIONS=--openssl-legacy-provider npm run start```
+
 ### Frontend
 
 https://www.w3schools.com/bootstrap4/bootstrap_containers.asp
